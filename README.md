@@ -17,4 +17,4 @@ Small object detection refers to the ability of a computer vision system to accu
   Combine multiple detection models or techniques to improve overall performance, as each method may have its strengths in detecting different types of small objects.
 ### Performance Metrics and Iterative Improvement:
   Continuously evaluate the performance of small object detection systems using metrics like intersection over union (IoU) and average precision (AP), and use the insights gained to refine the models and algorithms. 
-
+应用图像预处理技术
