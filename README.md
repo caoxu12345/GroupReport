@@ -2,7 +2,7 @@
 | Model | Paper | Venue | Year | Code | Time |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 | faster rcnn | [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497) | CVPR | 2016 | [fasterrcnn_res50+fpn](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing/blob/master/pytorch_object_detection/faster_rcnn/network_files/faster_rcnn_framework.py) | 2023.10.15 |
-| 单元格4 | 单元格5 | 单元格6 | 单元格4 | 单元格5 | 单元格6 |
+| YOLOV9 | [YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information]([https://github.com/WongKinYiu/yolov9](https://arxiv.org/pdf/2402.13616)) | arxiv | 2024 | https://github.com/WongKinYiu/yolov9 | 2024.4.8 |
 
 
 
