@@ -1,3 +1,47 @@
+
+
+|  模型  |                          论文名称                        |                       代码                       |   复现时间
+| :----: | :----------------------------------------------------------: |
+|  曹徐  | [caoxu12345/GroupReport](https://github.com/caoxu12345/GroupReport)             |
+| 刘宇涵 |  [llyuhan/Paper-record](https://github.com/llyuhan/Paper-record)|
+|  钱雄  |     [Qian-Xiong/Paper-record](https://github.com/Qian-Xiong/Paper-record)|
+| 孙志勇 | [szy/Paper-record](https://github.com/20001218/Paper-record) |
+|  吴京  |  https://github.com/adventure31t/jingwu                      |
+| 王露微 | [2023201123/luwei (github.com)](https://github.com/2023201123/luwei) |
+| 王一航 | https://github.com/bkpagen/Paper-record                              |
+|  殷伟  |                                                              |
+| 周沁坤 |          [zqk/Paper-record](https://github.com/betray0427/AKAkunkun)                                                    |
+| 孙梦伟 | [2389050027/Object-detection](https://github.com/2389050027/Object-detection/tree/main) |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 小目标检测
   小目标检测是计算机视觉领域中的一个挑战性课题，尤其因为在图像中这些目标通常分辨率低、对比度差、易受噪声影响。
 ## 小目标检测改进方法
