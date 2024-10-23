@@ -6,7 +6,7 @@
 | YOLOX | [YOLOX: Exceeding YOLO Series in 2021](https://arxiv.org/abs/2107.08430) | CVPR | 2021 |[yolox](https://github.com/Megvii-BaseDetection/YOLOX) | 2024.5.19 |
 | faster rcnn | [Small Object Detection via Coarse-to-fine Proposal Generation and Imitation Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Yuan_Small_Object_Detection_via_Coarse-to-fine_Proposal_Generation_and_Imitation_Learning_ICCV_2023_paper.pdf) | ICCV | 2023 |[python](https://github.com/shaunyuan22/CFINet) | 2024.6.10 |
 | faster rcnn | [A DeNoising FPN with Transformer R-CNN forTiny Object Detection](http://210.45.147.180/s/org/ieee/ieeexplore/G.https/stamp/stamp.jsp?tp=&arnumber=10518058) | Engineering Applications of Artificial Intelligence | 2024 |[python](https://github.com/hoiliu-0801/DNTR) | 2024.6.26 |
-| CenterNet | [YOLC: You Only Look Clusters for Tiny Object Detection in Aerial Images]([http://210.45.147.180/s/org/ieee/ieeexplore/G.https/stamp/stamp.jsp?tp=&arnumber=10518058](https://arxiv.org/pdf/2404.06180v2)) | IEEE Transactions on Intelligent Transportation Systems | 2024 |[python](https://github.com/dawn-ech/yolc) | 2024.6.26 |
+| CenterNet | [YOLC: You Only Look Clusters for Tiny Object Detection in Aerial Images](https://arxiv.org/pdf/2404.06180v2) | IEEE Transactions on Intelligent Transportation Systems | 2024 |[python](https://github.com/dawn-ech/yolc) | 2024.6.26 |
 
 
 
